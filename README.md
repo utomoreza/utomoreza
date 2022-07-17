@@ -7,12 +7,12 @@
 - ⚡ Fun fact: I have three nicknames: you can call me Reza, Dwi, or Erdu.
 - 📫 You could reach me on [LinkedIn](https://linkedin.com/in/utomoreza). Feel free to reach me if you have any topic to discuss or interesting project collaboration.
 
-<a href="https://github.com/utomoreza">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utomoreza&theme=radical&hide=glsl,python" />
-</a>
+<div align="center">
+  <a href="https://github.com/utomoreza">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utomoreza&theme=radical&hide=glsl,python" />
+  </a>
+</div>
 
 <div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=utomoreza&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
-
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=utomoreza&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 </div>
