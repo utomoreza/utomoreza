@@ -14,5 +14,5 @@
 </div>
 
 <div align="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=utomoreza&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=utomoreza&count_private=true&show_icons=true&title_color=f6bd4b&bg_color=000000&icon_color=f6bd4b&border_color=f6bd4b&text_color=fef9ff&hide_title=true)
 </div>
